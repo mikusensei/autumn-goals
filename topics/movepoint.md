@@ -136,8 +136,13 @@ ___
 <br><br>在这么一个问题中,运动前后的联系就是**运动前后的点所表示的数**<br><br>
 所以在表示动点，距离长度等几何量的时候这便是关键，所以，对于我们班的同学，要求，表示动点这一步所有同学一定要学会（一般做题写到这一步就可以拿到一半的分了😄）<br>
 --------华丽的分割线结束--------
+<br>
+上面都是准备工作，中间给大家看一个娱乐视频，不知道各位同学是否中招，如果中招，请在心底默念三遍"真实"
+<br><br>
 
+<iframe src="//player.bilibili.com/player.html?aid=413470863&bvid=BV1mV411r7hF&cid=199176581&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+<br><br>
 
 ---
 ## 数轴上的动点问题
