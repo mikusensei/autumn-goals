@@ -313,3 +313,5 @@ note：因为动点问题比较难，所以在这道题当中这个等量关系�
 <br>
 练习题2:<br>
 ![16](https://gitee.com/mikusensei/storehouse/raw/master/images/img1205/16.PNG?raw=true)
+
+## [往期内容索引](https://mikusensei.github.io/autumn-goals/)
